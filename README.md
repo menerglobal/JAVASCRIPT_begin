@@ -1,1 +1,1 @@
-# JAVASCRIPT_begin
+# My notes about Javascript
