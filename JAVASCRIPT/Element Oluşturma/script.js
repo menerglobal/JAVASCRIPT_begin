@@ -1,16 +1,16 @@
 // Creating Elements
 
-// create element
+// Create element
 const li = document.createElement('li');
 
-// add class
+// Add class
 li.className='list-group-item list-group-item-secondary';
 
-// attribute
+// Attribute
 li.setAttribute('title','new item');
 li.setAttribute('data-id','5');
 
-// text node
+// Text node
 const text = document.createTextNode('new item');
 li.appendChild(text);
 
@@ -19,10 +19,10 @@ a.setAttribute('href','#');
 a.className='delete-item float-right';
 a.innerHTML='<i class="fas fa-times"></i>';
 
-// append a to li
+// Append a to li
 li.appendChild(a);
 
-// append li to ul
+// Append li to ul
 document.querySelector('#task-list').appendChild(li);
 
 
