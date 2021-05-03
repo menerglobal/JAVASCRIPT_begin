@@ -1,12 +1,12 @@
 // if/else statements
 
-const firstName='Sena';
+const firstName='Enes';
 const age = 19;
 const isStudent = false;
 const school = 'university';
 
-// if(firstName === 'Sena'){
-//     console.log('Merhaba Sena');
+// if(firstName === 'Enes'){
+//     console.log('Merhaba Enes');
 // }
 
 // if (age === 19){
