@@ -24,7 +24,7 @@ console.log(name);
 
 // ** Local Scopes
 
-// Fonksiyonlar kendi scope 'larını oluşturur.
+// Fonksiyonlar kendi scope'larını oluşturur.
 // **Block'lar yeni scope oluşturmaz.
 // ES6 ile gelen let ve const block scope oluşturur.
 
