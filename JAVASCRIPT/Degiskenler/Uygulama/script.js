@@ -49,7 +49,7 @@ console.log(totalOrder2);
 var order4=parseInt('100.2');
 var order5=parseInt('150.5');
 
-var totalOrder3 = order4+order5
+var totalOrder3 = order4 + order5
 console.log(totalOrder3);
 
 // ** Aşağıda verilen doğum yılına göre yaş hesaplayınız.
