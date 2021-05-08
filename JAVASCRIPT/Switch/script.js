@@ -42,7 +42,7 @@
 
 
 const age = 9;
-const firstName ='Sena';
+const firstName ='Enes';
 
 switch(true){
     case age>=0 && age<=12:
