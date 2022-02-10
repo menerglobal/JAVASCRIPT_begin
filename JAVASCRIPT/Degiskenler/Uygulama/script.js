@@ -54,7 +54,7 @@ console.log(totalOrder3);
 
 // ** Aşağıda verilen doğum yılına göre yaş hesaplayınız.
 
-const yearOfBirth = 1997;
+const yearOfBirth = 1996;
 // yearOfBirth = 1997;
 
 console.log(new Date().getFullYear()-yearOfBirth);
