@@ -50,20 +50,21 @@
 //    // false && false => false
 
 //    val=  (a>b) && (a>c) 
-//    val = (a>b) || (a<c)
-//    val = !(a>b)
-
 
 //    // || (Or)
  
-//    // true  && true  => true
-//    // true  && false => true
-//    // false && false => false
+//    // true ||  true  => true
+//    // true  || false => true
+//    // false || false => false
+
+//    val = (a>b) || (a<c)
 
 //    // ! (Not)
 
 //    // !true  => false
 //    // !false => true
+
+//    val = !(a>b)
 
 // console.log(val);
 // console.log(typeof val);
