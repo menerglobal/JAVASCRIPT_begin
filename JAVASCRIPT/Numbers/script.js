@@ -9,7 +9,7 @@ let val;
 // val = isNaN('10');
 // val = isNaN('a10');
 
-// var num = 10.12456789;
+// var num = 10.123456789;
 // val = num.toPrecision(6);
 // val = num.toFixed(2);
 
