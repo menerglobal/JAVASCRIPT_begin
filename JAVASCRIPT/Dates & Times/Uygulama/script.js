@@ -65,3 +65,5 @@ var kurs = "Modern Javascript Dersleri: Baştan Sona Javascript Programlama";
 var result = kurs.lastIndexOf("Javascript"); // result: 7
 
 console.log(result)
+
+
