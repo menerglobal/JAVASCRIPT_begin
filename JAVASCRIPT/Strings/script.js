@@ -43,7 +43,7 @@ val = val.trim();
 //string length
 //val = val.length;
 
-val =hobbies.split(' ')
+val =hobbies.split(',')
 
 console.log(val);
 console.log(typeof val);
