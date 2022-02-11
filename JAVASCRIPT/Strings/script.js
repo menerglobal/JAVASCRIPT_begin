@@ -15,6 +15,8 @@ val +=' Erdogan';
 
 val = 'Benim adım '+firstName+' '+ lastName+ ' ve yaşım ' + age + ' izmir\'te yaşıyorum.';
 
+// + "izmir'de"
+
 //string concat
 val = firstName.concat(' ',lastName);
 
