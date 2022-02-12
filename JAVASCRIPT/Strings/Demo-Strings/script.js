@@ -2,7 +2,7 @@
 
 var sentence = "  Template Literals or template strings is the ability Have multi-line strings without any funny business. ";
 
-var url = "http://sadikturan.com/Modern Javascipt KURSU sıfırdan ileri seviye ü ö ş";
+var url = "http://menerglobal.com/Modern Javascipt KURSU sıfırdan ileri seviye ü ö ş";
 
 // cümle kaç karakterlidir ?
 console.log(sentence.length);
