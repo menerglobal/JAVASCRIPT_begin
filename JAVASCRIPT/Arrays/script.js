@@ -1,6 +1,6 @@
 // Arrays
 
-let names = ['çınar','sena','ada','yiğit'];
+let names = ['mustafa','mehmet','ekrem','ayse'];
 let years = [2017,1970,1990,1998];
 let mix = ['enes','erdogan',1983,null,undefined,['cinema','book']];
 
