@@ -77,9 +77,9 @@ console.log(arr3);
 
 /* Aşağıda verilen elemanları bir dizi içerisinde saklayınız.
      
-     studentA : Yiğit Bilgi 2010
-     StudentB : Sena Turan  1999
-     studentC : Ahmet Turan 1998   
+     studentA : Kemal Bilgi 2010
+     StudentB : Ali Turan  1999
+     studentC : Enes Erdogan 1997   
 
 */
 
