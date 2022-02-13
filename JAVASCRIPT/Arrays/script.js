@@ -9,7 +9,7 @@ let mix = ['enes','erdogan',1983,null,undefined,['cinema','book']];
 // console.log(names[3])
 
 // // set array item
-// names[names.length]='emel';
+// names[names.length]='erkan';
 
 // // add item
 // years.push(1986);
