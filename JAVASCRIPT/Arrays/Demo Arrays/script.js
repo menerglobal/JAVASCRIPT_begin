@@ -37,7 +37,7 @@ arr.reverse()
 // Dizi elemanlarını alfabetik olarak sıralayın.
 arr.sort();
 
-// [1,2,5,80] dizisini sıralayın.
+// [1,2,5,80,15] dizisini sıralayın.
 var numbers =[1,2,5,80,15];
 
 function compare(a,b){
