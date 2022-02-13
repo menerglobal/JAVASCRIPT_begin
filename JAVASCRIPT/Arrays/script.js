@@ -12,15 +12,15 @@ let mix = ['enes','erdogan',1983,null,undefined,['cinema','book']];
 // names[names.length]='erkan';
 
 // // add item
-// years.push(1986);
-// years.unshift(1986);
+// years.push(1996);
+// years.unshift(1996);
 
 // // remove item
 // years.pop();
 // years.shift();
 
 // //indexof
-// let index = names.indexOf('ada');
+// let index = names.indexOf('mehmet');
 // console.log(' index : '+index);
 
 // // reverse
