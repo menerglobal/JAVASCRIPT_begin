@@ -78,14 +78,14 @@ console.log(arr3);
 /* Aşağıda verilen elemanları bir dizi içerisinde saklayınız.
      
      studentA : Kemal Bilgi 2010
-     StudentB : Ali Turan  1999
+     StudentB : Arda Turan  1999
      studentC : Enes Erdogan 1997   
 
 */
 
-var studentA = ['Yiğit','Bilgi',2010];
-var studentB = ['Sena','Turan',1999];
-var studentC = ['Ahmet','Turan',1998];
+var studentA = ['Kemal','Bilgi',2010];
+var studentB = ['Arda','Turan',1999];
+var studentC = ['Enes','Erdogan',1997];
 
 var students =[studentA,studentB,studentC];
 
