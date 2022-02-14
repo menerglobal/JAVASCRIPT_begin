@@ -1,7 +1,7 @@
 // if/else statements
 
 const firstName='Enes';
-const age = 19;
+const age = 25;
 const isStudent = false;
 const school = 'university';
 
@@ -9,8 +9,8 @@ const school = 'university';
 //     console.log('Merhaba Enes');
 // }
 
-// if (age === 19){
-//     console.log('yaşınız 19');
+// if (age === 25){
+//     console.log('yaşınız 25');
 // }
 
 // if (isStudent){
