@@ -1,3 +1,5 @@
+// DEMO 1
+
 // var trafigeCikis = new Date('04/20/2014');
 // trafigeCikis.setHours(0,0,0,0);
 // var trafiktekiMs = Date.now() - trafigeCikis.getTime();
@@ -17,6 +19,8 @@
 // console.log(trafiktekiGun);
 
 
+// DEMO 2
+
 var result = prompt("who's there ? ");
 
 if(result == 'cancel'){
@@ -28,7 +32,7 @@ if(result == 'cancel'){
     if(password =='cancel'){
         console.log('cancelled');
     }else if(password== '1234'){
-        console.log('welcome Admin');
+        console.log('Welcome Admin');
     }else{
         console.log('wrong password');
     }
