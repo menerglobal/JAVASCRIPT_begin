@@ -31,7 +31,7 @@ if(result == 'cancel'){
 
     if(password =='cancel'){
         console.log('cancelled');
-    }else if(password== '1234'){
+    }else if(password== '1905'){
         console.log('Welcome Admin');
     }else{
         console.log('wrong password');
