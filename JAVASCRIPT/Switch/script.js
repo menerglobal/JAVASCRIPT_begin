@@ -41,7 +41,7 @@
 
 
 
-const age = 9;
+const age = 25;
 const firstName ='Enes';
 
 switch(true){
