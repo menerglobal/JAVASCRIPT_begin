@@ -8,7 +8,7 @@
 // }else if(trafiktekiGun>365 && trafiktekiGun<=365*2){
 //     console.log('2.servis bakım süreniz geldi');
 // }else if(trafiktekiGun>365*2 && trafiktekiGun<=365*3){
-//     console.log('3.servis bakım süreniz gelmiştir.')
+//     console.log('3.servis bakım süreniz geldi.')
 // }else{
 //     console.log('bilinmeyen bir süre');
 // }
