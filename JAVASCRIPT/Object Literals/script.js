@@ -33,9 +33,9 @@ val = person.getBirthYear();
 
 
 let people = [
-                {firstName : 'Çınar',lastName:'Turan'},
-                {firstName : 'Sena',lastName:'Turan'},
-                {firstName : 'Seda',lastName:'Turan'}
+                {firstName : 'Enes',lastName:'Erdogan'},
+                {firstName : 'Ayse',lastName:'Erdogan'},
+                {firstName : 'Erkan',lastName:'Erdogan'}
              ];
 
 
