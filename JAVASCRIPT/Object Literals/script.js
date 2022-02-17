@@ -8,8 +8,8 @@ let person = {
     age : 7,
     hobbies : ['music','game'],
     address : {
-        city : 'Kocaeli',
-        country : 'Türkiye'
+        city : 'Istanbul',
+        country : 'Turkey'
     },
     getBirthYear : function(){
         return 2018- this.age;
