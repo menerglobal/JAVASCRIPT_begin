@@ -28,7 +28,7 @@ var aracBilgileri = [
         id : 'bmw116d_123',
         model : 'bmw 116d',
         yil : 2015,
-        renk : 'Beyaz',
+        renk : 'white',
         servisKayitlari : [
         {
             id : 'bmw116d_123_1',
@@ -59,7 +59,7 @@ var aracBilgileri = [
         id : 'bmw118i_123',
         model : 'bmw 118i',
         yil : 2015,
-        renk : 'Beyaz',
+        renk : 'white',
         servisKayitlari : [
         {
             id : 'bmw118i_123_1',
@@ -90,7 +90,7 @@ var aracBilgileri = [
         id : 'bmw320d_123',
         model : 'bmw 320d',
         yil : 2015,
-        renk : 'Beyaz',
+        renk : 'white',
         servisKayitlari : [
         {
             id : 'bmw320d_123_1',
