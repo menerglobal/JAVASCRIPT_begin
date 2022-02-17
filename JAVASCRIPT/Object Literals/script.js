@@ -3,8 +3,8 @@
 let val;
 
 let person = {
-    firstName : 'Çınar',
-    lastName : 'Turan',
+    firstName : 'Enes',
+    lastName : 'Erdogan',
     age : 7,
     hobbies : ['music','game'],
     address : {
