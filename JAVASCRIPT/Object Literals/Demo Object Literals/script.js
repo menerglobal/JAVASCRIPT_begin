@@ -18,7 +18,7 @@
                id : 1 işlem : yağ değişimi ücret : 350
                id : 2 işlem : filtre değişimi : 350
                id : 3 işlem : fren hidroliği : 300
-               id : 3 işlem : balata değişimi : 800 
+               id : 4 işlem : balata değişimi : 800 
 
 */
 
@@ -50,7 +50,7 @@ var aracBilgileri = [
                         { id :'bmw116d_123_2_1',aciklama :'yağ değişimi', ucret:350},
                         { id :'bmw116d_123_2_2',aciklama :'filtre',ucret:350 },
                         { id : 'bmw116d_123_2_3',aciklama :'fren hidroliği',ucret:300},
-                        { id : 'bmw116d_123_2_3',aciklama : 'balata',ucret:800}
+                        { id : 'bmw116d_123_2_4',aciklama : 'balata',ucret:800}
                 ]
             }
         ]
@@ -81,7 +81,7 @@ var aracBilgileri = [
                         { id :'bmw116d_123_2_1',aciklama :'yağ değişimi', ucret:350},
                         { id :'bmw116d_123_2_2',aciklama :'filtre',ucret:350 },
                         { id : 'bmw116d_123_2_3',aciklama :'fren hidroliği',ucret:300},
-                        { id : 'bmw116d_123_2_3',aciklama : 'balata',ucret:800}
+                        { id : 'bmw116d_123_2_4',aciklama : 'balata',ucret:800}
                 ]
             }
         ]
@@ -112,7 +112,7 @@ var aracBilgileri = [
                         { id :'bmw116d_123_2_1',aciklama :'yağ değişimi', ucret:350},
                         { id :'bmw116d_123_2_2',aciklama :'filtre',ucret:350 },
                         { id : 'bmw116d_123_2_3',aciklama :'fren hidroliği',ucret:300},
-                        { id : 'bmw116d_123_2_3',aciklama : 'balata',ucret:800}
+                        { id : 'bmw116d_123_2_4',aciklama : 'balata',ucret:800}
                 ]
             }
         ]
