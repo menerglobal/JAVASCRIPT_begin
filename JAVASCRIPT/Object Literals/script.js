@@ -5,14 +5,14 @@ let val;
 let person = {
     firstName : 'Enes',
     lastName : 'Erdogan',
-    age : 7,
+    age : 25,
     hobbies : ['music','game'],
     address : {
         city : 'Istanbul',
         country : 'Turkey'
     },
     getBirthYear : function(){
-        return 2018- this.age;
+        return 2022- this.age;
     }
 };
 
