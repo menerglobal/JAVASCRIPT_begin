@@ -1,6 +1,6 @@
 // Loops in Array & Objects
 
-let cars =['Bmw','Mercedes','Toyota'];
+let cars =['Volvo','Mercedes','Toyota'];
 let people =[
    {firstName:'Ada',lastName:'Bilgi'},
    {firstName:'Yiğit',lastName:'Bilgi'},
