@@ -2,9 +2,9 @@
 
 let cars =['Volvo','Mercedes','Toyota'];
 let people =[
-   {firstName:'Ada',lastName:'Bilgi'},
-   {firstName:'Yiğit',lastName:'Bilgi'},
-   {firstName:'Çınar',lastName:'Turan'}
+   {firstName:'Enes',lastName:'Erdogan'},
+   {firstName:'Ali',lastName:'Erdogan'},
+   {firstName:'Arda',lastName:'Turan'}
 ];
 
 // Arrays
