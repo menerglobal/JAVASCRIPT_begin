@@ -33,4 +33,3 @@ while(hak>0){
         console.log('hakkınız bitti. sayı :'+sayi);
     }
 }
-
