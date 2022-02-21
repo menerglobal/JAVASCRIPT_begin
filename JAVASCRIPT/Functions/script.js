@@ -26,3 +26,4 @@ function EmekligeKacYilKaldi(dogumYili,isim){
 EmekligeKacYilKaldi(2012,'Ada');
 EmekligeKacYilKaldi(2010,'Yiğit');
 EmekligeKacYilKaldi(1950,'Çınar');
+
