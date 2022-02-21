@@ -1,14 +1,14 @@
 // Functions
 
 function yasHesapla(dogumYili){
-    return 2018 - dogumYili;
+    return 2022 - dogumYili;
 }
 
-let ageAda = yasHesapla(2012);
+let ageArda = yasHesapla(2012);
 let ageYigit = yasHesapla(2010);
 let ageCinar = yasHesapla(2017);
 
-console.log(ageAda);
+console.log(ageArda);
 console.log(ageYigit);
 console.log(ageCinar);
 
@@ -23,7 +23,7 @@ function EmekligeKacYilKaldi(dogumYili,isim){
     }
 }
 
-EmekligeKacYilKaldi(2012,'Ada');
+EmekligeKacYilKaldi(2012,'Arda');
 EmekligeKacYilKaldi(2010,'Yiğit');
 EmekligeKacYilKaldi(1950,'Çınar');
 
