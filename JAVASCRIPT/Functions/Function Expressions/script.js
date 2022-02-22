@@ -36,3 +36,4 @@ console.log(sum(10,30));
 console.log(sum(10)); // NaN
 console.log(sum(10,30,40,50));
 console.log(sumAll(10,20,30,10,30));
+
