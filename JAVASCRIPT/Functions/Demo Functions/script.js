@@ -1,17 +1,17 @@
 // Demo : Functions
 
 var bakiye = 2000;
-var adsoyad = 'sena turan';
+var adsoyad = 'Enes Erdogan';
 
 var hesapA = {
-    ad : 'Sena Turan',
+    ad : 'Enes Erdogan',
     hesapNo : '12345678',
     bakiye : 2000,
     ekHesap : 1000
 }
 
 var hesapB= {
-    ad : 'Emel Turan',
+    ad : 'Ali Erdogan',
     hesapNo : '12356479',
     bakiye : 3000,
     ekHesap : 2000
@@ -28,7 +28,7 @@ function paraCek(hesap,miktar){
         var toplam = hesap.bakiye + hesap.ekHesap;
 
         if(toplam>=miktar){
-            if(confirm('ek hesabınızı kullanmak istermisiniz')){
+            if(confirm('ek hesabınızı kullanmak ister misiniz')){
                 console.log('paranızı alabilirsiniz');
                 var bakiye = hesap.bakiye;
                 var ekhesap = miktar - bakiye;
