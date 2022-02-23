@@ -1,7 +1,7 @@
 // Demo : Functions
 
-var bakiye = 2000;
-var adsoyad = 'Enes Erdogan';
+// var bakiye = 2000;
+// var adsoyad = 'Enes Erdogan';
 
 var hesapA = {
     ad : 'Enes Erdogan',
@@ -45,5 +45,5 @@ function paraCek(hesap,miktar){
 }
 
 paraCek(hesapA,2000);
-paraCek(hesapA,1100);
+paraCek(hesapA,1000);
 // paraCek(hesapB,2000);
