@@ -36,7 +36,7 @@ val = window.location.host;
 val = window.location.protocol;
 val = window.location.search;
 
-// window.location.href='http://sadikturan.com';
+// window.location.href='https://menerglobal.com';
 // window.location.reload();
 
 console.log(val);
