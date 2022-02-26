@@ -37,7 +37,9 @@ if(true){
     console.log('block scope',model,year,color);
 }
 console.log(model);
+//console.log(year);
 //console.log(color);
+
 
 var i = 1;
 
