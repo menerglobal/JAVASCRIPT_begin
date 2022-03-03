@@ -42,5 +42,3 @@ document.querySelector('li:nth-child(4)').textContent='task item';
 document.querySelector('li').classList.add('active');
 
 // *** Multiple Elements
-
-
