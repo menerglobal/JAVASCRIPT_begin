@@ -50,6 +50,3 @@ val.forEach(function(item){
 
 console.log(val);
 
-
-
-
